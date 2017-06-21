@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>06시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>17300</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>08시 10분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>09시 40분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>10시 20분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>11시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>11시 50분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>12시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>17300</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>25500</charge>
+		<depplandtime>13시 50분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>17300</charge>
+		<depplandtime>18시 40분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<charge>28000</charge>
+		<depplandtime>22시 30분</depplandtime>
+		<level>심야</level>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>06시 40분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>16800</charge>
+		<depplandtime>07시 50분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>10시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>11시 10분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>12시 20분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>16800</charge>
+		<depplandtime>13시 20분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>14시 20분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>15시 20분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>17시 40분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>16800</charge>
+		<depplandtime>18시 50분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>20시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<charge>27200</charge>
+		<depplandtime>22시 00분</depplandtime>
+		<level>심야</level>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산 내서 중간정류장</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120706</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산 내서 중간정류장</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>15시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120706</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산 내서 중간정류장</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>18시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120706</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산일반터미널</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산일반터미널</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산일반터미널</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>11시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산일반터미널</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>13시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산일반터미널</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>15시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산일반터미널</arrplacenm>
+		<charge>20300</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산일반터미널</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>18시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산일반터미널</arrplacenm>
+		<charge>30200</charge>
+		<depplandtime>20시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산사상버스터미널(주)</arrplacenm>
+		<charge>33600</charge>
+		<depplandtime>08시 35분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120703</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산사상버스터미널(주)</arrplacenm>
+		<charge>33600</charge>
+		<depplandtime>16시 35분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120703</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>06시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>22700</charge>
+		<depplandtime>07시 45분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>09시 05분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>10시 25분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>11시 45분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>13시 05분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>22700</charge>
+		<depplandtime>14시 25분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>15시 45분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>17시 05분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>18시 45분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>33800</charge>
+		<depplandtime>20시 05분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<charge>37100</charge>
+		<depplandtime>22시 20분</depplandtime>
+		<level>심야</level>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>06시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>06시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>06시 40분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>06시 40분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>07시 45분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>07시 45분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>07시 50분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>07시 50분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>08시 35분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>08시 35분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>13시 20분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>13시 20분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>14시 25분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>14시 25분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<charge>12700</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>06시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>12400</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>10시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>10시 40분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>12400</charge>
+		<depplandtime>11시 30분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>12시 20분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>14시 40분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>12400</charge>
+		<depplandtime>15시 30분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>18200</charge>
+		<depplandtime>16시 20분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>12400</charge>
+		<depplandtime>19시 30분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<charge>20000</charge>
+		<depplandtime>22시 30분</depplandtime>
+		<level>심야</level>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>진주중앙터미널</arrplacenm>
+		<charge>28400</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120722</routeid>
+	</items>
+	<items>
+		<arrplacenm>진주중앙터미널</arrplacenm>
+		<charge>19200</charge>
+		<depplandtime>10시 00분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120722</routeid>
+	</items>
+	<items>
+		<arrplacenm>진주중앙터미널</arrplacenm>
+		<charge>28400</charge>
+		<depplandtime>13시 00분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120722</routeid>
+	</items>
+	<items>
+		<arrplacenm>진주중앙터미널</arrplacenm>
+		<charge>19200</charge>
+		<depplandtime>15시 30분</depplandtime>
+		<level>일반</level>
+		<routeid>NAEK120722</routeid>
+	</items>
+	<items>
+		<arrplacenm>진주중앙터미널</arrplacenm>
+		<charge>28400</charge>
+		<depplandtime>18시 30분</depplandtime>
+		<level>우등</level>
+		<routeid>NAEK120722</routeid>
+	</items>
+</response>

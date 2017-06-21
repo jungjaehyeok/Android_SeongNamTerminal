@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<items>
+		<arrplacenm>광주종합버스터미널</arrplacenm>
+		<routeid>NAEK120500</routeid>
+	</items>
+	<items>
+		<arrplacenm>동대구한진터미널</arrplacenm>
+		<routeid>NAEK120801</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산 내서 중간정류장</arrplacenm>
+		<routeid>NAEK120706</routeid>
+	</items>
+	<items>
+		<arrplacenm>마산고속터미널</arrplacenm>
+		<routeid>NAEK120705</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산사상버스터미널(주)</arrplacenm>
+		<routeid>NAEK120703</routeid>
+	</items>
+	<items>
+		<arrplacenm>부산종합터미널</arrplacenm>
+		<routeid>NAEK120700</routeid>
+	</items>
+	<items>
+		<arrplacenm>선산하행휴게소</arrplacenm>
+		<routeid>NAEK120812</routeid>
+	</items>
+	<items>
+		<arrplacenm>전주공용 터미널</arrplacenm>
+		<routeid>NAEK120602</routeid>
+	</items>
+	<items>
+		<arrplacenm>진주중앙터미널</arrplacenm>
+		<routeid>NAEK120722</routeid>
+	</items>
+</response>

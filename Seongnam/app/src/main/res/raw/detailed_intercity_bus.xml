@@ -1,0 +1,3921 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<items>
+		<arrplacenm>가평시외버스터미널</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>09시 15분</depplandtime>
+		<routeid>NAI100090531</routeid>
+	</items>
+	<items>
+		<arrplacenm>강경터미널</arrplacenm>
+		<charge>15700</charge>
+		<depplandtime>09시 24분</depplandtime>
+		<routeid>NAI100090546</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>08시 30분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>10시 00분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>11시 25분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>11시 50분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>13시 20분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>14시 50분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>18시 10분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>19시 40분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강릉종합버스정류장(강릉시외버스터미널)</arrplacenm>
+		<charge>16600</charge>
+		<depplandtime>22시 30분</depplandtime>
+		<routeid>NAI100090554</routeid>
+	</items>
+	<items>
+		<arrplacenm>강진공용버스터미널</arrplacenm>
+		<charge>24200</charge>
+		<depplandtime>09시 15분</depplandtime>
+		<routeid>NAI100090571</routeid>
+	</items>
+	<items>
+		<arrplacenm>강진공용버스터미널</arrplacenm>
+		<charge>24200</charge>
+		<depplandtime>15시 40분</depplandtime>
+		<routeid>NAI100090571</routeid>
+	</items>
+	<items>
+		<arrplacenm>경주시외버스터미널</arrplacenm>
+		<charge>21400</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI900001061</routeid>
+	</items>
+	<items>
+		<arrplacenm>경주시외버스터미널</arrplacenm>
+		<charge>21400</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<routeid>NAI900001061</routeid>
+	</items>
+	<items>
+		<arrplacenm>경주시외버스터미널</arrplacenm>
+		<charge>21400</charge>
+		<depplandtime>10시 30분</depplandtime>
+		<routeid>NAI900001061</routeid>
+	</items>
+	<items>
+		<arrplacenm>경주시외버스터미널</arrplacenm>
+		<charge>21400</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI900001061</routeid>
+	</items>
+	<items>
+		<arrplacenm>경주시외버스터미널</arrplacenm>
+		<charge>21400</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI900001061</routeid>
+	</items>
+	<items>
+		<arrplacenm>경주시외버스터미널</arrplacenm>
+		<charge>21400</charge>
+		<depplandtime>15시 40분</depplandtime>
+		<routeid>NAI900001061</routeid>
+	</items>
+	<items>
+		<arrplacenm>경주시외버스터미널</arrplacenm>
+		<charge>21400</charge>
+		<depplandtime>17시 00분</depplandtime>
+		<routeid>NAI900001061</routeid>
+	</items>
+	<items>
+		<arrplacenm>경주시외버스터미널</arrplacenm>
+		<charge>21400</charge>
+		<depplandtime>18시 30분</depplandtime>
+		<routeid>NAI900001061</routeid>
+	</items>
+	<items>
+		<arrplacenm>고양고속터미널(고양화정고속시외버스터미널)</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI100090528</routeid>
+	</items>
+	<items>
+		<arrplacenm>고양고속터미널(고양화정고속시외버스터미널)</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>09시 55분</depplandtime>
+		<routeid>NAI100090528</routeid>
+	</items>
+	<items>
+		<arrplacenm>고양고속터미널(고양화정고속시외버스터미널)</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>11시 55분</depplandtime>
+		<routeid>NAI100090528</routeid>
+	</items>
+	<items>
+		<arrplacenm>고양고속터미널(고양화정고속시외버스터미널)</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>13시 55분</depplandtime>
+		<routeid>NAI100090528</routeid>
+	</items>
+	<items>
+		<arrplacenm>고양고속터미널(고양화정고속시외버스터미널)</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>15시 55분</depplandtime>
+		<routeid>NAI100090528</routeid>
+	</items>
+	<items>
+		<arrplacenm>고양고속터미널(고양화정고속시외버스터미널)</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>17시 55분</depplandtime>
+		<routeid>NAI100090528</routeid>
+	</items>
+	<items>
+		<arrplacenm>고양고속터미널(고양화정고속시외버스터미널)</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>19시 55분</depplandtime>
+		<routeid>NAI100090528</routeid>
+	</items>
+	<items>
+		<arrplacenm>공주종합버스터미널</arrplacenm>
+		<charge>10600</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<routeid>NAI100090540</routeid>
+	</items>
+	<items>
+		<arrplacenm>공주종합버스터미널</arrplacenm>
+		<charge>10600</charge>
+		<depplandtime>09시 24분</depplandtime>
+		<routeid>NAI100090540</routeid>
+	</items>
+	<items>
+		<arrplacenm>공주종합버스터미널</arrplacenm>
+		<charge>10600</charge>
+		<depplandtime>15시 15분</depplandtime>
+		<routeid>NAI100090540</routeid>
+	</items>
+	<items>
+		<arrplacenm>공주종합버스터미널</arrplacenm>
+		<charge>10600</charge>
+		<depplandtime>18시 04분</depplandtime>
+		<routeid>NAI100090540</routeid>
+	</items>
+	<items>
+		<arrplacenm>광양고속터미널(광양공용버스터미널)</arrplacenm>
+		<charge>23500</charge>
+		<depplandtime>09시 20분</depplandtime>
+		<routeid>NAI100090570</routeid>
+	</items>
+	<items>
+		<arrplacenm>광양고속터미널(광양공용버스터미널)</arrplacenm>
+		<charge>23500</charge>
+		<depplandtime>15시 00분</depplandtime>
+		<routeid>NAI100090570</routeid>
+	</items>
+	<items>
+		<arrplacenm>광양고속터미널(광양공용버스터미널)</arrplacenm>
+		<charge>23500</charge>
+		<depplandtime>17시 45분</depplandtime>
+		<routeid>NAI100090570</routeid>
+	</items>
+	<items>
+		<arrplacenm>광천공용버스터미널(광천공용시외버스정류장)</arrplacenm>
+		<charge>11400</charge>
+		<depplandtime>08시 47분</depplandtime>
+		<routeid>NAI900001062</routeid>
+	</items>
+	<items>
+		<arrplacenm>광천공용버스터미널(광천공용시외버스정류장)</arrplacenm>
+		<charge>11400</charge>
+		<depplandtime>09시 37분</depplandtime>
+		<routeid>NAI900001062</routeid>
+	</items>
+	<items>
+		<arrplacenm>광천공용버스터미널(광천공용시외버스정류장)</arrplacenm>
+		<charge>11400</charge>
+		<depplandtime>10시 29분</depplandtime>
+		<routeid>NAI900001062</routeid>
+	</items>
+	<items>
+		<arrplacenm>광천공용버스터미널(광천공용시외버스정류장)</arrplacenm>
+		<charge>11400</charge>
+		<depplandtime>13시 31분</depplandtime>
+		<routeid>NAI900001062</routeid>
+	</items>
+	<items>
+		<arrplacenm>광천공용버스터미널(광천공용시외버스정류장)</arrplacenm>
+		<charge>11400</charge>
+		<depplandtime>14시 48분</depplandtime>
+		<routeid>NAI900001062</routeid>
+	</items>
+	<items>
+		<arrplacenm>광천공용버스터미널(광천공용시외버스정류장)</arrplacenm>
+		<charge>11400</charge>
+		<depplandtime>17시 25분</depplandtime>
+		<routeid>NAI900001062</routeid>
+	</items>
+	<items>
+		<arrplacenm>구미종합터미널</arrplacenm>
+		<charge>15200</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090562</routeid>
+	</items>
+	<items>
+		<arrplacenm>구미종합터미널</arrplacenm>
+		<charge>15200</charge>
+		<depplandtime>09시 50분</depplandtime>
+		<routeid>NAI100090562</routeid>
+	</items>
+	<items>
+		<arrplacenm>구미종합터미널</arrplacenm>
+		<charge>15200</charge>
+		<depplandtime>11시 40분</depplandtime>
+		<routeid>NAI100090562</routeid>
+	</items>
+	<items>
+		<arrplacenm>구미종합터미널</arrplacenm>
+		<charge>15200</charge>
+		<depplandtime>13시 30분</depplandtime>
+		<routeid>NAI100090562</routeid>
+	</items>
+	<items>
+		<arrplacenm>구미종합터미널</arrplacenm>
+		<charge>15200</charge>
+		<depplandtime>15시 20분</depplandtime>
+		<routeid>NAI100090562</routeid>
+	</items>
+	<items>
+		<arrplacenm>구미종합터미널</arrplacenm>
+		<charge>15200</charge>
+		<depplandtime>17시 20분</depplandtime>
+		<routeid>NAI100090562</routeid>
+	</items>
+	<items>
+		<arrplacenm>구미종합터미널</arrplacenm>
+		<charge>15200</charge>
+		<depplandtime>19시 00분</depplandtime>
+		<routeid>NAI100090562</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>09시 05분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>10시 35분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>12시 10분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>13시 30분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>15시 10분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>18시 00분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>군산시외버스터미널</arrplacenm>
+		<charge>14200</charge>
+		<depplandtime>19시 30분</depplandtime>
+		<routeid>NAI100090568</routeid>
+	</items>
+	<items>
+		<arrplacenm>김제공용버스터미널</arrplacenm>
+		<charge>14100</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI900001063</routeid>
+	</items>
+	<items>
+		<arrplacenm>김제공용버스터미널</arrplacenm>
+		<charge>14100</charge>
+		<depplandtime>08시 40분</depplandtime>
+		<routeid>NAI900001063</routeid>
+	</items>
+	<items>
+		<arrplacenm>김제공용버스터미널</arrplacenm>
+		<charge>14100</charge>
+		<depplandtime>10시 30분</depplandtime>
+		<routeid>NAI900001063</routeid>
+	</items>
+	<items>
+		<arrplacenm>김제공용버스터미널</arrplacenm>
+		<charge>14100</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI900001063</routeid>
+	</items>
+	<items>
+		<arrplacenm>김제공용버스터미널</arrplacenm>
+		<charge>14100</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI900001063</routeid>
+	</items>
+	<items>
+		<arrplacenm>김제공용버스터미널</arrplacenm>
+		<charge>14100</charge>
+		<depplandtime>16시 00분</depplandtime>
+		<routeid>NAI900001063</routeid>
+	</items>
+	<items>
+		<arrplacenm>김해고속터미널(김해여객터미널)</arrplacenm>
+		<charge>23700</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090563</routeid>
+	</items>
+	<items>
+		<arrplacenm>김해고속터미널(김해여객터미널)</arrplacenm>
+		<charge>23700</charge>
+		<depplandtime>11시 40분</depplandtime>
+		<routeid>NAI100090563</routeid>
+	</items>
+	<items>
+		<arrplacenm>김해고속터미널(김해여객터미널)</arrplacenm>
+		<charge>23700</charge>
+		<depplandtime>15시 20분</depplandtime>
+		<routeid>NAI100090563</routeid>
+	</items>
+	<items>
+		<arrplacenm>김해고속터미널(김해여객터미널)</arrplacenm>
+		<charge>23700</charge>
+		<depplandtime>17시 20분</depplandtime>
+		<routeid>NAI100090563</routeid>
+	</items>
+	<items>
+		<arrplacenm>나주시외버스공용정류장(나주시외버스터미널)</arrplacenm>
+		<charge>17500</charge>
+		<depplandtime>09시 15분</depplandtime>
+		<routeid>NAI900001064</routeid>
+	</items>
+	<items>
+		<arrplacenm>나주시외버스공용정류장(나주시외버스터미널)</arrplacenm>
+		<charge>17500</charge>
+		<depplandtime>15시 40분</depplandtime>
+		<routeid>NAI900001064</routeid>
+	</items>
+	<items>
+		<arrplacenm>논산시외버스공용터미널(논산시외버스터미널)</arrplacenm>
+		<charge>14700</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090545</routeid>
+	</items>
+	<items>
+		<arrplacenm>논산시외버스공용터미널(논산시외버스터미널)</arrplacenm>
+		<charge>14700</charge>
+		<depplandtime>09시 24분</depplandtime>
+		<routeid>NAI100090545</routeid>
+	</items>
+	<items>
+		<arrplacenm>논산시외버스공용터미널(논산시외버스터미널)</arrplacenm>
+		<charge>14700</charge>
+		<depplandtime>15시 15분</depplandtime>
+		<routeid>NAI100090545</routeid>
+	</items>
+	<items>
+		<arrplacenm>단양시외버스공영터미널</arrplacenm>
+		<charge>17400</charge>
+		<depplandtime>09시 50분</depplandtime>
+		<routeid>NAI100090551</routeid>
+	</items>
+	<items>
+		<arrplacenm>단양시외버스공영터미널</arrplacenm>
+		<charge>17400</charge>
+		<depplandtime>15시 15분</depplandtime>
+		<routeid>NAI100090551</routeid>
+	</items>
+	<items>
+		<arrplacenm>당진시외버스정류장(당진종합버스터미널)</arrplacenm>
+		<charge>6500</charge>
+		<depplandtime>07시 53분</depplandtime>
+		<routeid>NAI900001065</routeid>
+	</items>
+	<items>
+		<arrplacenm>당진시외버스정류장(당진종합버스터미널)</arrplacenm>
+		<charge>6500</charge>
+		<depplandtime>10시 03분</depplandtime>
+		<routeid>NAI900001065</routeid>
+	</items>
+	<items>
+		<arrplacenm>당진시외버스정류장(당진종합버스터미널)</arrplacenm>
+		<charge>6500</charge>
+		<depplandtime>10시 54분</depplandtime>
+		<routeid>NAI900001065</routeid>
+	</items>
+	<items>
+		<arrplacenm>당진시외버스정류장(당진종합버스터미널)</arrplacenm>
+		<charge>6500</charge>
+		<depplandtime>11시 47분</depplandtime>
+		<routeid>NAI900001065</routeid>
+	</items>
+	<items>
+		<arrplacenm>당진시외버스정류장(당진종합버스터미널)</arrplacenm>
+		<charge>6500</charge>
+		<depplandtime>15시 41분</depplandtime>
+		<routeid>NAI900001065</routeid>
+	</items>
+	<items>
+		<arrplacenm>당진시외버스정류장(당진종합버스터미널)</arrplacenm>
+		<charge>6500</charge>
+		<depplandtime>16시 59분</depplandtime>
+		<routeid>NAI900001065</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>06시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>08시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>09시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>10시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>10시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>11시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>11시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>12시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>13시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>13시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>14시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>15시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>15시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>16시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>17시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>17시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>18시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>18시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>19시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>19시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>20시 00분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전동부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>20시 30분</depplandtime>
+		<routeid>NAI100090536</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전서부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090547</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전서부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>08시 06분</depplandtime>
+		<routeid>NAI100090547</routeid>
+	</items>
+	<items>
+		<arrplacenm>대전서부시외터미널</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>17시 12분</depplandtime>
+		<routeid>NAI100090547</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>06시 30분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>07시 40분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>08시 40분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>09시 10분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>09시 50분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>10시 40분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>11시 10분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>11시 50분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>12시 40분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>13시 50분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>14시 40분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>15시 10분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>15시 50분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>16시 40분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>17시 10분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>17시 40분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>18시 40분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>19시 10분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>19시 50분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>20시 20분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>둔산시외버스정류장</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>21시 10분</depplandtime>
+		<routeid>NAI800001009</routeid>
+	</items>
+	<items>
+		<arrplacenm>목포종합버스터미널</arrplacenm>
+		<charge>24000</charge>
+		<depplandtime>08시 30분</depplandtime>
+		<routeid>NAI900001066</routeid>
+	</items>
+	<items>
+		<arrplacenm>목포종합버스터미널</arrplacenm>
+		<charge>24000</charge>
+		<depplandtime>11시 50분</depplandtime>
+		<routeid>NAI900001066</routeid>
+	</items>
+	<items>
+		<arrplacenm>목포종합버스터미널</arrplacenm>
+		<charge>24000</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI900001066</routeid>
+	</items>
+	<items>
+		<arrplacenm>목포종합버스터미널</arrplacenm>
+		<charge>24000</charge>
+		<depplandtime>17시 30분</depplandtime>
+		<routeid>NAI900001066</routeid>
+	</items>
+	<items>
+		<arrplacenm>무안터미널(무안공용터미널)</arrplacenm>
+		<charge>22200</charge>
+		<depplandtime>08시 30분</depplandtime>
+		<routeid>NAI900001067</routeid>
+	</items>
+	<items>
+		<arrplacenm>무안터미널(무안공용터미널)</arrplacenm>
+		<charge>22200</charge>
+		<depplandtime>11시 50분</depplandtime>
+		<routeid>NAI900001067</routeid>
+	</items>
+	<items>
+		<arrplacenm>무안터미널(무안공용터미널)</arrplacenm>
+		<charge>22200</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI900001067</routeid>
+	</items>
+	<items>
+		<arrplacenm>무안터미널(무안공용터미널)</arrplacenm>
+		<charge>22200</charge>
+		<depplandtime>17시 30분</depplandtime>
+		<routeid>NAI900001067</routeid>
+	</items>
+	<items>
+		<arrplacenm>보령종합터미널(보령종합버스터미널)</arrplacenm>
+		<charge>11600</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<routeid>NAI100090533</routeid>
+	</items>
+	<items>
+		<arrplacenm>보령종합터미널(보령종합버스터미널)</arrplacenm>
+		<charge>11600</charge>
+		<depplandtime>11시 00분</depplandtime>
+		<routeid>NAI100090533</routeid>
+	</items>
+	<items>
+		<arrplacenm>보령종합터미널(보령종합버스터미널)</arrplacenm>
+		<charge>11600</charge>
+		<depplandtime>15시 25분</depplandtime>
+		<routeid>NAI100090533</routeid>
+	</items>
+	<items>
+		<arrplacenm>보령종합터미널(보령종합버스터미널)</arrplacenm>
+		<charge>11600</charge>
+		<depplandtime>19시 25분</depplandtime>
+		<routeid>NAI100090533</routeid>
+	</items>
+	<items>
+		<arrplacenm>부안고속터미널(부안시외버스공용정류장)</arrplacenm>
+		<charge>16200</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI100090565</routeid>
+	</items>
+	<items>
+		<arrplacenm>부안고속터미널(부안시외버스공용정류장)</arrplacenm>
+		<charge>16200</charge>
+		<depplandtime>08시 40분</depplandtime>
+		<routeid>NAI100090565</routeid>
+	</items>
+	<items>
+		<arrplacenm>부안고속터미널(부안시외버스공용정류장)</arrplacenm>
+		<charge>16200</charge>
+		<depplandtime>10시 30분</depplandtime>
+		<routeid>NAI100090565</routeid>
+	</items>
+	<items>
+		<arrplacenm>부안고속터미널(부안시외버스공용정류장)</arrplacenm>
+		<charge>16200</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI100090565</routeid>
+	</items>
+	<items>
+		<arrplacenm>부안고속터미널(부안시외버스공용정류장)</arrplacenm>
+		<charge>16200</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090565</routeid>
+	</items>
+	<items>
+		<arrplacenm>부안고속터미널(부안시외버스공용정류장)</arrplacenm>
+		<charge>16200</charge>
+		<depplandtime>16시 00분</depplandtime>
+		<routeid>NAI100090565</routeid>
+	</items>
+	<items>
+		<arrplacenm>부여시외버스공용터미널</arrplacenm>
+		<charge>12900</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<routeid>NAI100090548</routeid>
+	</items>
+	<items>
+		<arrplacenm>부여시외버스공용터미널</arrplacenm>
+		<charge>12900</charge>
+		<depplandtime>18시 04분</depplandtime>
+		<routeid>NAI100090548</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>06시 00분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>06시 25분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>07시 10분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>07시 40분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>08시 15분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>09시 15분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>10시 05분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>10시 55분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>11시 45분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>12시 20분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>13시 20분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>14시 10분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>15시 05분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>15시 55분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>16시 45분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>17시 35분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>18시 10분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>18시 40분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>19시 00분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>19시 15분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>19시 50분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>20시 20분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>20시 50분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>21시 20분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>부천시외버스터미널</arrplacenm>
+		<charge>2700</charge>
+		<depplandtime>22시 00분</depplandtime>
+		<routeid>NAI100090522</routeid>
+	</items>
+	<items>
+		<arrplacenm>상주종합버스터미널</arrplacenm>
+		<charge>16100</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<routeid>NAI100090557</routeid>
+	</items>
+	<items>
+		<arrplacenm>상주종합버스터미널</arrplacenm>
+		<charge>16100</charge>
+		<depplandtime>13시 00분</depplandtime>
+		<routeid>NAI100090557</routeid>
+	</items>
+	<items>
+		<arrplacenm>상주종합버스터미널</arrplacenm>
+		<charge>16100</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<routeid>NAI100090557</routeid>
+	</items>
+	<items>
+		<arrplacenm>상주종합버스터미널</arrplacenm>
+		<charge>16100</charge>
+		<depplandtime>18시 00분</depplandtime>
+		<routeid>NAI100090557</routeid>
+	</items>
+	<items>
+		<arrplacenm>상주종합버스터미널</arrplacenm>
+		<charge>16100</charge>
+		<depplandtime>19시 40분</depplandtime>
+		<routeid>NAI100090557</routeid>
+	</items>
+	<items>
+		<arrplacenm>서산공용버스터미널</arrplacenm>
+		<charge>9800</charge>
+		<depplandtime>08시 10분</depplandtime>
+		<routeid>NAI100090532</routeid>
+	</items>
+	<items>
+		<arrplacenm>서산공용버스터미널</arrplacenm>
+		<charge>9800</charge>
+		<depplandtime>12시 10분</depplandtime>
+		<routeid>NAI100090532</routeid>
+	</items>
+	<items>
+		<arrplacenm>서산공용버스터미널</arrplacenm>
+		<charge>9800</charge>
+		<depplandtime>13시 50분</depplandtime>
+		<routeid>NAI100090532</routeid>
+	</items>
+	<items>
+		<arrplacenm>서산공용버스터미널</arrplacenm>
+		<charge>9800</charge>
+		<depplandtime>17시 45분</depplandtime>
+		<routeid>NAI100090532</routeid>
+	</items>
+	<items>
+		<arrplacenm>서산공용버스터미널</arrplacenm>
+		<charge>9800</charge>
+		<depplandtime>20시 00분</depplandtime>
+		<routeid>NAI100090532</routeid>
+	</items>
+	<items>
+		<arrplacenm>서천시외버스터미널</arrplacenm>
+		<charge>12900</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<routeid>NAI900001068</routeid>
+	</items>
+	<items>
+		<arrplacenm>서천시외버스터미널</arrplacenm>
+		<charge>12900</charge>
+		<depplandtime>09시 37분</depplandtime>
+		<routeid>NAI900001068</routeid>
+	</items>
+	<items>
+		<arrplacenm>서천시외버스터미널</arrplacenm>
+		<charge>12900</charge>
+		<depplandtime>14시 48분</depplandtime>
+		<routeid>NAI900001068</routeid>
+	</items>
+	<items>
+		<arrplacenm>속초시외버스정류장(속초시외버스터미널)</arrplacenm>
+		<charge>21000</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090553</routeid>
+	</items>
+	<items>
+		<arrplacenm>속초시외버스정류장(속초시외버스터미널)</arrplacenm>
+		<charge>21000</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<routeid>NAI100090553</routeid>
+	</items>
+	<items>
+		<arrplacenm>속초시외버스정류장(속초시외버스터미널)</arrplacenm>
+		<charge>21000</charge>
+		<depplandtime>10시 20분</depplandtime>
+		<routeid>NAI100090553</routeid>
+	</items>
+	<items>
+		<arrplacenm>속초시외버스정류장(속초시외버스터미널)</arrplacenm>
+		<charge>21000</charge>
+		<depplandtime>12시 20분</depplandtime>
+		<routeid>NAI100090553</routeid>
+	</items>
+	<items>
+		<arrplacenm>속초시외버스정류장(속초시외버스터미널)</arrplacenm>
+		<charge>21000</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090553</routeid>
+	</items>
+	<items>
+		<arrplacenm>속초시외버스정류장(속초시외버스터미널)</arrplacenm>
+		<charge>21000</charge>
+		<depplandtime>16시 10분</depplandtime>
+		<routeid>NAI100090553</routeid>
+	</items>
+	<items>
+		<arrplacenm>속초시외버스정류장(속초시외버스터미널)</arrplacenm>
+		<charge>21000</charge>
+		<depplandtime>18시 10분</depplandtime>
+		<routeid>NAI100090553</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>06시 05분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>06시 35분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>08시 15분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>09시 10분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>10시 05분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>10시 35분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>11시 30분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>12시 20분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>14시 05분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>14시 35분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>15시 20분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>15시 55분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>16시 30분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>17시 10분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>18시 05분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>18시 35분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>19시 30분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>20시 05분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>20시 30분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>21시 05분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>송탄시외버스터미널</arrplacenm>
+		<charge>3400</charge>
+		<depplandtime>21시 50분</depplandtime>
+		<routeid>NAI100090530</routeid>
+	</items>
+	<items>
+		<arrplacenm>수안보시외버스정류장</arrplacenm>
+		<charge>12800</charge>
+		<depplandtime>09시 10분</depplandtime>
+		<routeid>NAI900001069</routeid>
+	</items>
+	<items>
+		<arrplacenm>수안보시외버스정류장</arrplacenm>
+		<charge>12800</charge>
+		<depplandtime>11시 10분</depplandtime>
+		<routeid>NAI900001069</routeid>
+	</items>
+	<items>
+		<arrplacenm>수안보시외버스정류장</arrplacenm>
+		<charge>12800</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<routeid>NAI900001069</routeid>
+	</items>
+	<items>
+		<arrplacenm>수안보시외버스정류장</arrplacenm>
+		<charge>12800</charge>
+		<depplandtime>15시 10분</depplandtime>
+		<routeid>NAI900001069</routeid>
+	</items>
+	<items>
+		<arrplacenm>순천종합버스터미널</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>07시 40분</depplandtime>
+		<routeid>NAI900001070</routeid>
+	</items>
+	<items>
+		<arrplacenm>순천종합버스터미널</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<routeid>NAI900001070</routeid>
+	</items>
+	<items>
+		<arrplacenm>순천종합버스터미널</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>10시 10분</depplandtime>
+		<routeid>NAI900001070</routeid>
+	</items>
+	<items>
+		<arrplacenm>순천종합버스터미널</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>11시 40분</depplandtime>
+		<routeid>NAI900001070</routeid>
+	</items>
+	<items>
+		<arrplacenm>순천종합버스터미널</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>14시 10분</depplandtime>
+		<routeid>NAI900001070</routeid>
+	</items>
+	<items>
+		<arrplacenm>순천종합버스터미널</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>15시 30분</depplandtime>
+		<routeid>NAI900001070</routeid>
+	</items>
+	<items>
+		<arrplacenm>순천종합버스터미널</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>16시 50분</depplandtime>
+		<routeid>NAI900001070</routeid>
+	</items>
+	<items>
+		<arrplacenm>순천종합버스터미널</arrplacenm>
+		<charge>18700</charge>
+		<depplandtime>18시 10분</depplandtime>
+		<routeid>NAI900001070</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>05시 40분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>06시 05분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>06시 25분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>06시 45분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>07시 10분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>07시 35분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>08시 25분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>08시 45분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>09시 20분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>09시 40분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>10시 00분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>10시 20분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>10시 40분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>11시 00분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>11시 20분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>11시 40분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>12시 20분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>12시 40분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>13시 00분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>13시 20분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>13시 40분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>14시 20분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>14시 40분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>15시 05분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>15시 25분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>15시 45분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>16시 05분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>16시 25분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>16시 45분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>17시 10분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>17시 35분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>18시 00분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>18시 25분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>18시 50분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>19시 10분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>19시 30분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>19시 50분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>20시 10분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>20시 30분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>20시 50분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>21시 10분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>21시 30분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>21시 50분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>시화공단정류소</arrplacenm>
+		<charge>4900</charge>
+		<depplandtime>22시 10분</depplandtime>
+		<routeid>NAI100090520</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>08시 20분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>08시 47분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>09시 37분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>10시 29분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>11시 21분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>11시 47분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>12시 39분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>13시 05분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>13시 31분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>13시 57분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>14시 48분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>15시 41분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>16시 59분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>17시 25분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>17시 51분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>18시 16분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>아산시외버스터미널(온양시외버스터미널)</arrplacenm>
+		<charge>7200</charge>
+		<depplandtime>18시 57분</depplandtime>
+		<routeid>NAI100090544</routeid>
+	</items>
+	<items>
+		<arrplacenm>안동시외버스터미널</arrplacenm>
+		<charge>19900</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090561</routeid>
+	</items>
+	<items>
+		<arrplacenm>안동시외버스터미널</arrplacenm>
+		<charge>19900</charge>
+		<depplandtime>09시 20분</depplandtime>
+		<routeid>NAI100090561</routeid>
+	</items>
+	<items>
+		<arrplacenm>안동시외버스터미널</arrplacenm>
+		<charge>19900</charge>
+		<depplandtime>11시 30분</depplandtime>
+		<routeid>NAI100090561</routeid>
+	</items>
+	<items>
+		<arrplacenm>안동시외버스터미널</arrplacenm>
+		<charge>19900</charge>
+		<depplandtime>13시 50분</depplandtime>
+		<routeid>NAI100090561</routeid>
+	</items>
+	<items>
+		<arrplacenm>안동시외버스터미널</arrplacenm>
+		<charge>19900</charge>
+		<depplandtime>16시 10분</depplandtime>
+		<routeid>NAI100090561</routeid>
+	</items>
+	<items>
+		<arrplacenm>안동시외버스터미널</arrplacenm>
+		<charge>19900</charge>
+		<depplandtime>18시 20분</depplandtime>
+		<routeid>NAI100090561</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>07시 50분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>08시 25분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>09시 20분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>10시 15분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>11시 10분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>12시 10분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>13시 20분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>14시 20분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>15시 10분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>16시 10분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>17시 20분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>18시 20분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>19시 10분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>19시 50분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>20시 40분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>안성공용버스정류장(안성종합버스터미널)</arrplacenm>
+		<charge>5300</charge>
+		<depplandtime>21시 20분</depplandtime>
+		<routeid>NAI100090524</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>08시 20분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>09시 50분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>11시 20분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>12시 50분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>14시 20분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>15시 50분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>17시 20분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>양평시외버스정류장(양평시외버스터미널)</arrplacenm>
+		<charge>6100</charge>
+		<depplandtime>19시 11분</depplandtime>
+		<routeid>NAI900001071</routeid>
+	</items>
+	<items>
+		<arrplacenm>여수시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>07시 40분</depplandtime>
+		<routeid>NAI100090569</routeid>
+	</items>
+	<items>
+		<arrplacenm>여수시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<routeid>NAI100090569</routeid>
+	</items>
+	<items>
+		<arrplacenm>여수시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>10시 10분</depplandtime>
+		<routeid>NAI100090569</routeid>
+	</items>
+	<items>
+		<arrplacenm>여수시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>11시 40분</depplandtime>
+		<routeid>NAI100090569</routeid>
+	</items>
+	<items>
+		<arrplacenm>여수시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>14시 10분</depplandtime>
+		<routeid>NAI100090569</routeid>
+	</items>
+	<items>
+		<arrplacenm>여수시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>15시 30분</depplandtime>
+		<routeid>NAI100090569</routeid>
+	</items>
+	<items>
+		<arrplacenm>여수시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>16시 50분</depplandtime>
+		<routeid>NAI100090569</routeid>
+	</items>
+	<items>
+		<arrplacenm>여수시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>18시 10분</depplandtime>
+		<routeid>NAI100090569</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>06시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>07시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>08시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>09시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>09시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>10시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>10시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>11시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>11시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>12시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>12시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>13시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>13시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>14시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>14시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>15시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>15시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>16시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>16시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>17시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>17시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>18시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>18시 50분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>19시 20분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>20시 10분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>여주고속터미널(여주종합터미널)</arrplacenm>
+		<charge>6700</charge>
+		<depplandtime>21시 00분</depplandtime>
+		<routeid>NAI100090527</routeid>
+	</items>
+	<items>
+		<arrplacenm>영광시외버스터미널(고속매표소)</arrplacenm>
+		<charge>19400</charge>
+		<depplandtime>08시 30분</depplandtime>
+		<routeid>NAI900001072</routeid>
+	</items>
+	<items>
+		<arrplacenm>영광시외버스터미널(고속매표소)</arrplacenm>
+		<charge>19400</charge>
+		<depplandtime>11시 50분</depplandtime>
+		<routeid>NAI900001072</routeid>
+	</items>
+	<items>
+		<arrplacenm>영광시외버스터미널(고속매표소)</arrplacenm>
+		<charge>19400</charge>
+		<depplandtime>14시 15분</depplandtime>
+		<routeid>NAI900001072</routeid>
+	</items>
+	<items>
+		<arrplacenm>영광시외버스터미널(고속매표소)</arrplacenm>
+		<charge>19400</charge>
+		<depplandtime>17시 30분</depplandtime>
+		<routeid>NAI900001072</routeid>
+	</items>
+	<items>
+		<arrplacenm>영월시외버스터미널</arrplacenm>
+		<charge>17400</charge>
+		<depplandtime>06시 30분</depplandtime>
+		<routeid>NAI900001073</routeid>
+	</items>
+	<items>
+		<arrplacenm>영월시외버스터미널</arrplacenm>
+		<charge>17400</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI900001073</routeid>
+	</items>
+	<items>
+		<arrplacenm>영월시외버스터미널</arrplacenm>
+		<charge>17400</charge>
+		<depplandtime>09시 30분</depplandtime>
+		<routeid>NAI900001073</routeid>
+	</items>
+	<items>
+		<arrplacenm>영월시외버스터미널</arrplacenm>
+		<charge>17400</charge>
+		<depplandtime>12시 50분</depplandtime>
+		<routeid>NAI900001073</routeid>
+	</items>
+	<items>
+		<arrplacenm>영월시외버스터미널</arrplacenm>
+		<charge>17400</charge>
+		<depplandtime>16시 10분</depplandtime>
+		<routeid>NAI900001073</routeid>
+	</items>
+	<items>
+		<arrplacenm>예산종합터미널</arrplacenm>
+		<charge>10100</charge>
+		<depplandtime>08시 47분</depplandtime>
+		<routeid>NAI900001074</routeid>
+	</items>
+	<items>
+		<arrplacenm>예산종합터미널</arrplacenm>
+		<charge>10100</charge>
+		<depplandtime>09시 37분</depplandtime>
+		<routeid>NAI900001074</routeid>
+	</items>
+	<items>
+		<arrplacenm>예산종합터미널</arrplacenm>
+		<charge>10100</charge>
+		<depplandtime>10시 29분</depplandtime>
+		<routeid>NAI900001074</routeid>
+	</items>
+	<items>
+		<arrplacenm>예산종합터미널</arrplacenm>
+		<charge>10100</charge>
+		<depplandtime>13시 05분</depplandtime>
+		<routeid>NAI900001074</routeid>
+	</items>
+	<items>
+		<arrplacenm>예산종합터미널</arrplacenm>
+		<charge>10100</charge>
+		<depplandtime>13시 31분</depplandtime>
+		<routeid>NAI900001074</routeid>
+	</items>
+	<items>
+		<arrplacenm>예산종합터미널</arrplacenm>
+		<charge>10100</charge>
+		<depplandtime>14시 48분</depplandtime>
+		<routeid>NAI900001074</routeid>
+	</items>
+	<items>
+		<arrplacenm>예산종합터미널</arrplacenm>
+		<charge>10100</charge>
+		<depplandtime>17시 25분</depplandtime>
+		<routeid>NAI900001074</routeid>
+	</items>
+	<items>
+		<arrplacenm>예산종합터미널</arrplacenm>
+		<charge>10100</charge>
+		<depplandtime>17시 51분</depplandtime>
+		<routeid>NAI900001074</routeid>
+	</items>
+	<items>
+		<arrplacenm>예천시외버스공용정류장(예천버스터미널)</arrplacenm>
+		<charge>17000</charge>
+		<depplandtime>11시 15분</depplandtime>
+		<routeid>NAI100090560</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>06시 05분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>06시 35분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>08시 15분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>09시 10분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>10시 05분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>10시 35분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>11시 30분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>12시 20분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>14시 05분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>14시 35분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>15시 30분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>16시 20분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>17시 10분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>18시 05분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>18시 35분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>19시 20분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>20시 10분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>21시 05분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>오산시외버스터미널</arrplacenm>
+		<charge>2300</charge>
+		<depplandtime>21시 51분</depplandtime>
+		<routeid>NAI900001075</routeid>
+	</items>
+	<items>
+		<arrplacenm>울산시외버스정류장(울산시외버스터미널)</arrplacenm>
+		<charge>24300</charge>
+		<depplandtime>07시 40분</depplandtime>
+		<routeid>NAI100090559</routeid>
+	</items>
+	<items>
+		<arrplacenm>울산시외버스정류장(울산시외버스터미널)</arrplacenm>
+		<charge>24300</charge>
+		<depplandtime>09시 10분</depplandtime>
+		<routeid>NAI100090559</routeid>
+	</items>
+	<items>
+		<arrplacenm>울산시외버스정류장(울산시외버스터미널)</arrplacenm>
+		<charge>24300</charge>
+		<depplandtime>10시 40분</depplandtime>
+		<routeid>NAI100090559</routeid>
+	</items>
+	<items>
+		<arrplacenm>울산시외버스정류장(울산시외버스터미널)</arrplacenm>
+		<charge>24300</charge>
+		<depplandtime>12시 10분</depplandtime>
+		<routeid>NAI100090559</routeid>
+	</items>
+	<items>
+		<arrplacenm>울산시외버스정류장(울산시외버스터미널)</arrplacenm>
+		<charge>24300</charge>
+		<depplandtime>14시 10분</depplandtime>
+		<routeid>NAI100090559</routeid>
+	</items>
+	<items>
+		<arrplacenm>울산시외버스정류장(울산시외버스터미널)</arrplacenm>
+		<charge>24300</charge>
+		<depplandtime>15시 50분</depplandtime>
+		<routeid>NAI100090559</routeid>
+	</items>
+	<items>
+		<arrplacenm>울산시외버스정류장(울산시외버스터미널)</arrplacenm>
+		<charge>24300</charge>
+		<depplandtime>17시 10분</depplandtime>
+		<routeid>NAI100090559</routeid>
+	</items>
+	<items>
+		<arrplacenm>울산시외버스정류장(울산시외버스터미널)</arrplacenm>
+		<charge>24300</charge>
+		<depplandtime>18시 40분</depplandtime>
+		<routeid>NAI100090559</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>06시 30분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>07시 10분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>08시 40분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>09시 30분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>09시 50분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>10시 40분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>11시 20분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>12시 10분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>12시 50분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>13시 50분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>14시 30분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>15시 35분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>16시 10분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>17시 05분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>17시 50분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>18시 40분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>19시 50분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>원주시외버스종합정류장(원주고속버스터미널)</arrplacenm>
+		<charge>8100</charge>
+		<depplandtime>21시 00분</depplandtime>
+		<routeid>NAI100090549</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>06시 30분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>07시 40분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>08시 06분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>08시 40분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>09시 10분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>09시 50분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>10시 40분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>11시 10분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>11시 50분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>12시 40분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>13시 50분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>14시 40분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>15시 10분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>15시 50분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>16시 40분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>17시 10분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>17시 40분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>18시 40분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>19시 10분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>19시 50분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>20시 20분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>유성시외버스정류소(서부시외버스유성터미널)</arrplacenm>
+		<charge>10000</charge>
+		<depplandtime>21시 10분</depplandtime>
+		<routeid>NAI100090541</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>08시 40분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>09시 30분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>11시 10분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>15시 50분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>17시 10분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>익산시외버스공용터미널(익산시외버스공용정류장)</arrplacenm>
+		<charge>17200</charge>
+		<depplandtime>19시 10분</depplandtime>
+		<routeid>NAI100090566</routeid>
+	</items>
+	<items>
+		<arrplacenm>장호원시외버스터미널</arrplacenm>
+		<charge>7500</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI900001077</routeid>
+	</items>
+	<items>
+		<arrplacenm>정선시외버스터미널(정선종합터미널)</arrplacenm>
+		<charge>22300</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090552</routeid>
+	</items>
+	<items>
+		<arrplacenm>정읍버스터미널</arrplacenm>
+		<charge>16000</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<routeid>NAI100090567</routeid>
+	</items>
+	<items>
+		<arrplacenm>정읍버스터미널</arrplacenm>
+		<charge>16000</charge>
+		<depplandtime>10시 45분</depplandtime>
+		<routeid>NAI100090567</routeid>
+	</items>
+	<items>
+		<arrplacenm>정읍버스터미널</arrplacenm>
+		<charge>16000</charge>
+		<depplandtime>13시 45분</depplandtime>
+		<routeid>NAI100090567</routeid>
+	</items>
+	<items>
+		<arrplacenm>정읍버스터미널</arrplacenm>
+		<charge>16000</charge>
+		<depplandtime>16시 45분</depplandtime>
+		<routeid>NAI100090567</routeid>
+	</items>
+	<items>
+		<arrplacenm>제천시외버스터미널</arrplacenm>
+		<charge>13800</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090543</routeid>
+	</items>
+	<items>
+		<arrplacenm>제천시외버스터미널</arrplacenm>
+		<charge>13800</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090543</routeid>
+	</items>
+	<items>
+		<arrplacenm>제천시외버스터미널</arrplacenm>
+		<charge>13800</charge>
+		<depplandtime>10시 00분</depplandtime>
+		<routeid>NAI100090543</routeid>
+	</items>
+	<items>
+		<arrplacenm>제천시외버스터미널</arrplacenm>
+		<charge>13800</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI100090543</routeid>
+	</items>
+	<items>
+		<arrplacenm>제천시외버스터미널</arrplacenm>
+		<charge>13800</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090543</routeid>
+	</items>
+	<items>
+		<arrplacenm>제천시외버스터미널</arrplacenm>
+		<charge>13800</charge>
+		<depplandtime>16시 00분</depplandtime>
+		<routeid>NAI100090543</routeid>
+	</items>
+	<items>
+		<arrplacenm>제천시외버스터미널</arrplacenm>
+		<charge>13800</charge>
+		<depplandtime>18시 00분</depplandtime>
+		<routeid>NAI100090543</routeid>
+	</items>
+	<items>
+		<arrplacenm>제천시외버스터미널</arrplacenm>
+		<charge>13800</charge>
+		<depplandtime>20시 00분</depplandtime>
+		<routeid>NAI100090543</routeid>
+	</items>
+	<items>
+		<arrplacenm>죽산시외버스터미널</arrplacenm>
+		<charge>5600</charge>
+		<depplandtime>07시 35분</depplandtime>
+		<routeid>NAI900001078</routeid>
+	</items>
+	<items>
+		<arrplacenm>죽산시외버스터미널</arrplacenm>
+		<charge>5600</charge>
+		<depplandtime>14시 40분</depplandtime>
+		<routeid>NAI900001078</routeid>
+	</items>
+	<items>
+		<arrplacenm>진천종합터미널</arrplacenm>
+		<charge>8900</charge>
+		<depplandtime>07시 35분</depplandtime>
+		<routeid>NAI100090542</routeid>
+	</items>
+	<items>
+		<arrplacenm>진천종합터미널</arrplacenm>
+		<charge>8900</charge>
+		<depplandtime>15시 10분</depplandtime>
+		<routeid>NAI100090542</routeid>
+	</items>
+	<items>
+		<arrplacenm>진천종합터미널</arrplacenm>
+		<charge>8900</charge>
+		<depplandtime>19시 50분</depplandtime>
+		<routeid>NAI100090542</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>06시 20분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>07시 40분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>07시 53분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>08시 06분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>08시 20분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>08시 35분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>08시 47분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>09시 24분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>09시 37분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>10시 03분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>10시 29분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>10시 42분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>11시 21분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>11시 34분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>11시 47분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>12시 26분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>12시 39분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>13시 05분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>13시 31분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>13시 44분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>13시 57분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>14시 10분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>14시 36분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>14시 48분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>15시 05분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>15시 15분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>15시 41분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>15시 55분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>16시 20분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>16시 33분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>16시 46분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>16시 59분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>17시 12분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>17시 25분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>17시 38분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>17시 51분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>18시 04분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>18시 16분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>18시 57분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>19시 15분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>19시 50분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>20시 20분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>20시 40분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>천안종합터미널</arrplacenm>
+		<charge>5200</charge>
+		<depplandtime>21시 00분</depplandtime>
+		<routeid>NAI100090538</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>06시 40분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>07시 20분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>07시 50분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>08시 20분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>09시 10분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>09시 40분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>10시 10분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>10시 40분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>11시 10분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>11시 40분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>12시 10분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>12시 40분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>13시 40분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>14시 20분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>15시 00분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>15시 30분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>16시 10분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>16시 45분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>17시 15분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>18시 00분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>18시 30분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>19시 00분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>19시 30분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청주시외버스터미널</arrplacenm>
+		<charge>7800</charge>
+		<depplandtime>20시 00분</depplandtime>
+		<routeid>NAI100090537</routeid>
+	</items>
+	<items>
+		<arrplacenm>청평공용버스터미널</arrplacenm>
+		<charge>5500</charge>
+		<depplandtime>09시 15분</depplandtime>
+		<routeid>NAI100090525</routeid>
+	</items>
+	<items>
+		<arrplacenm>청평공용버스터미널</arrplacenm>
+		<charge>5500</charge>
+		<depplandtime>14시 10분</depplandtime>
+		<routeid>NAI100090525</routeid>
+	</items>
+	<items>
+		<arrplacenm>청평공용버스터미널</arrplacenm>
+		<charge>5500</charge>
+		<depplandtime>19시 20분</depplandtime>
+		<routeid>NAI100090525</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>07시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>09시 05분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>10시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>11시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>12시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>13시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>14시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>15시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>16시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>17시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>18시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>춘천시외버스종합터미널(춘천시외버스터미널)</arrplacenm>
+		<charge>7100</charge>
+		<depplandtime>19시 35분</depplandtime>
+		<routeid>NAI100090556</routeid>
+	</items>
+	<items>
+		<arrplacenm>충주공용버스터미널</arrplacenm>
+		<charge>10700</charge>
+		<depplandtime>07시 10분</depplandtime>
+		<routeid>NAI900001079</routeid>
+	</items>
+	<items>
+		<arrplacenm>충주공용버스터미널</arrplacenm>
+		<charge>10700</charge>
+		<depplandtime>09시 10분</depplandtime>
+		<routeid>NAI900001079</routeid>
+	</items>
+	<items>
+		<arrplacenm>충주공용버스터미널</arrplacenm>
+		<charge>10700</charge>
+		<depplandtime>11시 10분</depplandtime>
+		<routeid>NAI900001079</routeid>
+	</items>
+	<items>
+		<arrplacenm>충주공용버스터미널</arrplacenm>
+		<charge>10700</charge>
+		<depplandtime>13시 10분</depplandtime>
+		<routeid>NAI900001079</routeid>
+	</items>
+	<items>
+		<arrplacenm>충주공용버스터미널</arrplacenm>
+		<charge>10700</charge>
+		<depplandtime>15시 10분</depplandtime>
+		<routeid>NAI900001079</routeid>
+	</items>
+	<items>
+		<arrplacenm>충주공용버스터미널</arrplacenm>
+		<charge>10700</charge>
+		<depplandtime>17시 10분</depplandtime>
+		<routeid>NAI900001079</routeid>
+	</items>
+	<items>
+		<arrplacenm>충주공용버스터미널</arrplacenm>
+		<charge>10700</charge>
+		<depplandtime>19시 20분</depplandtime>
+		<routeid>NAI900001079</routeid>
+	</items>
+	<items>
+		<arrplacenm>태백시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<routeid>NAI100090550</routeid>
+	</items>
+	<items>
+		<arrplacenm>태백시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<routeid>NAI100090550</routeid>
+	</items>
+	<items>
+		<arrplacenm>태백시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>11시 35분</depplandtime>
+		<routeid>NAI100090550</routeid>
+	</items>
+	<items>
+		<arrplacenm>태백시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090550</routeid>
+	</items>
+	<items>
+		<arrplacenm>태백시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>16시 00분</depplandtime>
+		<routeid>NAI100090550</routeid>
+	</items>
+	<items>
+		<arrplacenm>태백시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>16시 10분</depplandtime>
+		<routeid>NAI100090550</routeid>
+	</items>
+	<items>
+		<arrplacenm>태백시외버스터미널</arrplacenm>
+		<charge>22600</charge>
+		<depplandtime>18시 30분</depplandtime>
+		<routeid>NAI100090550</routeid>
+	</items>
+	<items>
+		<arrplacenm>태안시외버스터미널(태안터미널)</arrplacenm>
+		<charge>11000</charge>
+		<depplandtime>08시 10분</depplandtime>
+		<routeid>NAI100090539</routeid>
+	</items>
+	<items>
+		<arrplacenm>태안시외버스터미널(태안터미널)</arrplacenm>
+		<charge>11000</charge>
+		<depplandtime>12시 10분</depplandtime>
+		<routeid>NAI100090539</routeid>
+	</items>
+	<items>
+		<arrplacenm>태안시외버스터미널(태안터미널)</arrplacenm>
+		<charge>11000</charge>
+		<depplandtime>13시 50분</depplandtime>
+		<routeid>NAI100090539</routeid>
+	</items>
+	<items>
+		<arrplacenm>태안시외버스터미널(태안터미널)</arrplacenm>
+		<charge>11000</charge>
+		<depplandtime>17시 45분</depplandtime>
+		<routeid>NAI100090539</routeid>
+	</items>
+	<items>
+		<arrplacenm>태안시외버스터미널(태안터미널)</arrplacenm>
+		<charge>11000</charge>
+		<depplandtime>20시 00분</depplandtime>
+		<routeid>NAI100090539</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>07시 35분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>09시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>10시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>11시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>13시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>15시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>16시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>17시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>18시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>19시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>20시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>21시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>평택시외버스터미널</arrplacenm>
+		<charge>4400</charge>
+		<depplandtime>22시 00분</depplandtime>
+		<routeid>NAI100090529</routeid>
+	</items>
+	<items>
+		<arrplacenm>포항시외버스터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>07시 30분</depplandtime>
+		<routeid>NAI100090558</routeid>
+	</items>
+	<items>
+		<arrplacenm>포항시외버스터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>08시 50분</depplandtime>
+		<routeid>NAI100090558</routeid>
+	</items>
+	<items>
+		<arrplacenm>포항시외버스터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>10시 30분</depplandtime>
+		<routeid>NAI100090558</routeid>
+	</items>
+	<items>
+		<arrplacenm>포항시외버스터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>12시 00분</depplandtime>
+		<routeid>NAI100090558</routeid>
+	</items>
+	<items>
+		<arrplacenm>포항시외버스터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>14시 00분</depplandtime>
+		<routeid>NAI100090558</routeid>
+	</items>
+	<items>
+		<arrplacenm>포항시외버스터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>15시 40분</depplandtime>
+		<routeid>NAI100090558</routeid>
+	</items>
+	<items>
+		<arrplacenm>포항시외버스터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>17시 00분</depplandtime>
+		<routeid>NAI100090558</routeid>
+	</items>
+	<items>
+		<arrplacenm>포항시외버스터미널</arrplacenm>
+		<charge>24800</charge>
+		<depplandtime>18시 30분</depplandtime>
+		<routeid>NAI100090558</routeid>
+	</items>
+	<items>
+		<arrplacenm>하남시청(대원고속하남영업소)</arrplacenm>
+		<charge>1800</charge>
+		<depplandtime>07시 00분</depplandtime>
+		<routeid>NAI100090523</routeid>
+	</items>
+	<items>
+		<arrplacenm>하남시청(대원고속하남영업소)</arrplacenm>
+		<charge>1800</charge>
+		<depplandtime>08시 00분</depplandtime>
+		<routeid>NAI100090523</routeid>
+	</items>
+	<items>
+		<arrplacenm>하남시청(대원고속하남영업소)</arrplacenm>
+		<charge>1800</charge>
+		<depplandtime>15시 55분</depplandtime>
+		<routeid>NAI100090523</routeid>
+	</items>
+	<items>
+		<arrplacenm>하남시청(대원고속하남영업소)</arrplacenm>
+		<charge>1800</charge>
+		<depplandtime>18시 40분</depplandtime>
+		<routeid>NAI100090523</routeid>
+	</items>
+	<items>
+		<arrplacenm>합덕공용터미널</arrplacenm>
+		<charge>9700</charge>
+		<depplandtime>07시 53분</depplandtime>
+		<routeid>NAI900001080</routeid>
+	</items>
+	<items>
+		<arrplacenm>합덕공용터미널</arrplacenm>
+		<charge>9700</charge>
+		<depplandtime>10시 03분</depplandtime>
+		<routeid>NAI900001080</routeid>
+	</items>
+	<items>
+		<arrplacenm>합덕공용터미널</arrplacenm>
+		<charge>9700</charge>
+		<depplandtime>10시 54분</depplandtime>
+		<routeid>NAI900001080</routeid>
+	</items>
+	<items>
+		<arrplacenm>합덕공용터미널</arrplacenm>
+		<charge>9700</charge>
+		<depplandtime>11시 47분</depplandtime>
+		<routeid>NAI900001080</routeid>
+	</items>
+	<items>
+		<arrplacenm>합덕공용터미널</arrplacenm>
+		<charge>9700</charge>
+		<depplandtime>15시 41분</depplandtime>
+		<routeid>NAI900001080</routeid>
+	</items>
+	<items>
+		<arrplacenm>합덕공용터미널</arrplacenm>
+		<charge>9700</charge>
+		<depplandtime>16시 59분</depplandtime>
+		<routeid>NAI900001080</routeid>
+	</items>
+	<items>
+		<arrplacenm>해남버스터미널</arrplacenm>
+		<charge>27100</charge>
+		<depplandtime>14시 15분</depplandtime>
+		<routeid>NAI100090564</routeid>
+	</items>
+	<items>
+		<arrplacenm>현리공용버스터미널</arrplacenm>
+		<charge>6900</charge>
+		<depplandtime>14시 10분</depplandtime>
+		<routeid>NAI100090526</routeid>
+	</items>
+	<items>
+		<arrplacenm>현리공용버스터미널</arrplacenm>
+		<charge>6900</charge>
+		<depplandtime>19시 20분</depplandtime>
+		<routeid>NAI100090526</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍성버스터미널</arrplacenm>
+		<charge>9500</charge>
+		<depplandtime>08시 47분</depplandtime>
+		<routeid>NAI900001081</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍성버스터미널</arrplacenm>
+		<charge>9500</charge>
+		<depplandtime>09시 37분</depplandtime>
+		<routeid>NAI900001081</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍성버스터미널</arrplacenm>
+		<charge>9500</charge>
+		<depplandtime>10시 29분</depplandtime>
+		<routeid>NAI900001081</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍성버스터미널</arrplacenm>
+		<charge>9500</charge>
+		<depplandtime>13시 05분</depplandtime>
+		<routeid>NAI900001081</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍성버스터미널</arrplacenm>
+		<charge>9500</charge>
+		<depplandtime>13시 31분</depplandtime>
+		<routeid>NAI900001081</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍성버스터미널</arrplacenm>
+		<charge>9500</charge>
+		<depplandtime>14시 48분</depplandtime>
+		<routeid>NAI900001081</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍성버스터미널</arrplacenm>
+		<charge>9500</charge>
+		<depplandtime>17시 25분</depplandtime>
+		<routeid>NAI900001081</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍성버스터미널</arrplacenm>
+		<charge>9500</charge>
+		<depplandtime>17시 51분</depplandtime>
+		<routeid>NAI900001081</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>06시 50분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>08시 20분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>09시 50분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>11시 20분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>12시 50분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>14시 20분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>15시 50분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>17시 20분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+	<items>
+		<arrplacenm>홍천시외버스터미널</arrplacenm>
+		<charge>11500</charge>
+		<depplandtime>19시 10분</depplandtime>
+		<routeid>NAI100090555</routeid>
+	</items>
+</response>
